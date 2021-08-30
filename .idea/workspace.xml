@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf8605a1-f8b6-4c79-923b-70dcb5e9626e" name="Default Changelist" comment="struct 打包解包优化" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/sql/Types.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/sql/ResultSet.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/tools/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\tools\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1uITgLvG8vaNvAfniltsnbwcFXJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.magus.opio.utils" />
+      <recent name="com.magus.util" />
+      <recent name="com.magus.util.qy" />
+      <recent name="com.magus.entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StructUtil">
+    <configuration name="ByteUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.magus.opio.utils.base.ByteUtil" />
+      <module name="magus-connector-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.magus.opio.utils.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BytesUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.magus.opio.utils.BytesUtils" />
+      <module name="magus-connector-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.magus.opio.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StructUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.magus.opio.utils.struct.StructUtil" />
+      <module name="magus-connector-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.magus.opio.utils.struct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LightningTest.batchInsertByJDBC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="magus-connector-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.magus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.magus" />
+      <option name="MAIN_CLASS_NAME" value="com.magus.LightningTest" />
+      <option name="METHOD_NAME" value="batchInsertByJDBC" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LightningTest.queryJsonJDBC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="magus-connector-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.magus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.magus" />
+      <option name="MAIN_CLASS_NAME" value="com.magus.LightningTest" />
+      <option name="METHOD_NAME" value="queryJsonJDBC" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LightningTest.queryJsonJDBC" />
+        <item itemvalue="JUnit.LightningTest.batchInsertByJDBC" />
+        <item itemvalue="Application.StructUtil" />
+        <item itemvalue="Application.ByteUtil" />
+        <item itemvalue="Application.BytesUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\ly\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf8605a1-f8b6-4c79-923b-70dcb5e9626e" name="Default Changelist" comment="" />
+      <created>1624352216265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624352216265</updated>
+      <workItem from="1624352219630" duration="993000" />
+      <workItem from="1624353470570" duration="602000" />
+      <workItem from="1624410960485" duration="4870000" />
+      <workItem from="1624498105752" duration="74000" />
+      <workItem from="1624526352269" duration="822000" />
+      <workItem from="1624583279043" duration="4895000" />
+      <workItem from="1624610108405" duration="589000" />
+      <workItem from="1625450006861" duration="7329000" />
+      <workItem from="1625466432801" duration="6181000" />
+      <workItem from="1625534922322" duration="3053000" />
+      <workItem from="1625548969977" duration="5384000" />
+      <workItem from="1625581629251" duration="67000" />
+      <workItem from="1625621816858" duration="16984000" />
+      <workItem from="1625707289599" duration="11679000" />
+      <workItem from="1625793666333" duration="13500000" />
+      <workItem from="1626053472060" duration="21002000" />
+      <workItem from="1626139394193" duration="2298000" />
+      <workItem from="1626166626364" duration="727000" />
+      <workItem from="1626225482573" duration="2795000" />
+      <workItem from="1626312473917" duration="2361000" />
+      <workItem from="1626398667443" duration="1229000" />
+      <workItem from="1626440579579" duration="137000" />
+      <workItem from="1626745952197" duration="8286000" />
+      <workItem from="1626830902760" duration="18117000" />
+      <workItem from="1626915217863" duration="311000" />
+      <workItem from="1626916628524" duration="26124000" />
+      <workItem from="1627002124512" duration="20735000" />
+      <workItem from="1627085573204" duration="26032000" />
+      <workItem from="1627173366302" duration="9792000" />
+      <workItem from="1627183555340" duration="3155000" />
+      <workItem from="1627209357838" duration="4973000" />
+      <workItem from="1627220438572" duration="13861000" />
+      <workItem from="1627260602144" duration="1365000" />
+      <workItem from="1627265201344" duration="26256000" />
+      <workItem from="1627349600598" duration="31954000" />
+      <workItem from="1627435466180" duration="8161000" />
+      <workItem from="1627530102244" duration="262000" />
+      <workItem from="1627530604744" duration="8631000" />
+      <workItem from="1627608377423" duration="1529000" />
+      <workItem from="1627636108300" duration="2457000" />
+      <workItem from="1628147662176" duration="4204000" />
+      <workItem from="1628155603469" duration="593000" />
+      <workItem from="1628211628374" duration="2962000" />
+      <workItem from="1628577288197" duration="2066000" />
+      <workItem from="1628644027816" duration="13866000" />
+      <workItem from="1628730278169" duration="14021000" />
+      <workItem from="1628816452053" duration="27877000" />
+      <workItem from="1629078334350" duration="7876000" />
+      <workItem from="1629162768429" duration="2413000" />
+      <workItem from="1629179040061" duration="9532000" />
+      <workItem from="1629250181883" duration="1149000" />
+      <workItem from="1629357774678" duration="1517000" />
+      <workItem from="1629425958400" duration="1370000" />
+      <workItem from="1629680537250" duration="5241000" />
+      <workItem from="1629766988941" duration="16091000" />
+      <workItem from="1629791713923" duration="7000" />
+      <workItem from="1629791800149" duration="8409000" />
+      <workItem from="1629853375720" duration="27380000" />
+      <workItem from="1629939716984" duration="26952000" />
+      <workItem from="1630026817734" duration="20708000" />
+      <workItem from="1630286002083" duration="25280000" />
+      <workItem from="1630317641547" duration="92000" />
+      <workItem from="1630317742701" duration="636000" />
+      <workItem from="1630318409363" duration="125000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交java jdbc">
+      <created>1624584006902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624584006902</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交java jdbc">
+      <created>1624588131257</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624588131258</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交java jdbc">
+      <created>1625450937094</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625450937094</updated>
+    </task>
+    <task id="LOCAL-00004" summary="提交java jdbc">
+      <created>1625455143398</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625455143398</updated>
+    </task>
+    <task id="LOCAL-00005" summary="提交java jdbc">
+      <created>1625468350713</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1625468350713</updated>
+    </task>
+    <task id="LOCAL-00006" summary="提交java jdbc">
+      <created>1626747629264</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626747629264</updated>
+    </task>
+    <task id="LOCAL-00007" summary="提交导出原始报文">
+      <created>1627036137072</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1627036137072</updated>
+    </task>
+    <task id="LOCAL-00008" summary="提交导出原始报文">
+      <created>1627234412489</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1627234412489</updated>
+    </task>
+    <task id="LOCAL-00009" summary="提交导出原始报文">
+      <created>1627439194588</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627439194588</updated>
+    </task>
+    <task id="LOCAL-00010" summary="解决setObject问题">
+      <created>1627608474649</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1627608474649</updated>
+    </task>
+    <task id="LOCAL-00011" summary="lock优化">
+      <created>1628577412091</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1628577412091</updated>
+    </task>
+    <task id="LOCAL-00012" summary="struct 打包解包优化">
+      <created>1629886767708</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1629886767708</updated>
+    </task>
+    <task id="LOCAL-00013" summary="struct 打包解包优化">
+      <created>1630316493867</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1630316493867</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="提交java jdbc" />
+    <MESSAGE value="提交导出原始报文" />
+    <MESSAGE value="解决setObject问题" />
+    <MESSAGE value="lock优化" />
+    <MESSAGE value="struct 打包解包优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="struct 打包解包优化" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
